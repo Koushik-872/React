@@ -1,17 +1,16 @@
 # Contact Dashboard
-
 A modern, responsive contact management system built with React, Redux, and styled-components.
 
 ## Features
 
-- 📊 Dashboard with contact statistics
-- 📇 Complete contact management (Add, Edit, View)
-- 🔍 Advanced filtering (search by any column, date range, month, year)
-- 📄 Excel export functionality
-- 🎨 Responsive design (mobile-friendly)
-- ⚡ Fast and efficient with Redux state management
-- 🎯 Sorting by any column
-- 📱 Mobile-optimized table view
+  Dashboard with contact statistics
+  Complete contact management (Add, Edit, View)
+  Advanced filtering (search by any column, date range, month, year)
+  Excel export functionality
+  Responsive design (mobile-friendly)
+  Fast and efficient with Redux state management
+  Sorting by any column
+  Mobile-optimized table view
 
 ## Tech Stack
 
